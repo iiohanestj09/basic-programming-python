@@ -1,0 +1,1 @@
+print(f"Nilai __name__ pada 'contohFungsi.py'        = '{__name__}'")
