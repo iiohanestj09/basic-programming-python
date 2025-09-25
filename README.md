@@ -5,7 +5,7 @@ Referensi materi-materi yang saya pelajari berasal dari Buku dan Video di Youtub
 |  Python Language                                                                 | Basic Programming                                                                             |
 |----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 |  [Data Structure Python](https://github.com/iiohanestj09/data-structure-python)  | [Basic Programming C++](https://github.com/iiohanestj09/basic-programming-cpp)                |
-|                                                                                  | [Basic Programming C](https://github.com/iiohanestj09/basic-programming-c)                    |
+|  [Python Mini Projects](https://github.com/iiohanestj09/python-mini-projects)    | [Basic Programming C](https://github.com/iiohanestj09/basic-programming-c)                    |
 |                                                                                  | [Basic Programming JavaScript](https://github.com/iiohanestj09/basic-programming-javascript)  |
 |                                                                                  | [Basic Programming PHP](https://github.com/iiohanestj09/basic-programming-php)                |
 |                                                                                  | [Basic Programming Go](https://github.com/iiohanestj09/basic-programming-go)                  |
